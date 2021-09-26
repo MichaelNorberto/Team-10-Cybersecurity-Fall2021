@@ -6,5 +6,6 @@ Grover's Algorithm is another algorithm, similar to Shor's algorithm, that can b
 This is easily fixed by just increasing the bit size of the symmetric encryption algorithms though. 
 
 https://qiskit.org/textbook/ch-algorithms/grover.html
+
 https://quantum-computing.ibm.com/composer/docs/iqx/guide/grovers-algorithm
 
