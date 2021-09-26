@@ -9,3 +9,7 @@ https://qiskit.org/textbook/ch-algorithms/grover.html
 
 https://quantum-computing.ibm.com/composer/docs/iqx/guide/grovers-algorithm
 
+##Nist Post-Quantum Cryptography Finalists
+These are the finalists for the NIST post-qunatum cryptography challenge. They use several different methods including stateless hashing, polynomial lattice encryption, and several others.
+
+https://csrc.nist.gov/Projects/post-quantum-cryptography/round-3-submissions
