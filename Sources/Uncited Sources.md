@@ -18,3 +18,5 @@ https://csrc.nist.gov/Projects/post-quantum-cryptography/round-3-submissions
 Sphincs-256: Sphincs is a hash based signature algorithm made for post-quantum-cryptography that is highly secure and capable of signing messages at incredible rates
 
 https://sphincs.cr.yp.to/
+
+https://medium.com/cryptoblog/what-is-lattice-based-cryptography-why-should-you-care-dbf9957ab717
