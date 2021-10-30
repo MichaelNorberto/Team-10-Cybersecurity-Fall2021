@@ -20,3 +20,5 @@ Sphincs-256: Sphincs is a hash based signature algorithm made for post-quantum-c
 https://sphincs.cr.yp.to/
 
 https://medium.com/cryptoblog/what-is-lattice-based-cryptography-why-should-you-care-dbf9957ab717
+
+http://www.dragonwins.com/domains/getteched/bbc/literature/Diffie88.pdf
