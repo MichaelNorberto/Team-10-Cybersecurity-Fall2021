@@ -21,4 +21,10 @@ https://sphincs.cr.yp.to/
 
 https://medium.com/cryptoblog/what-is-lattice-based-cryptography-why-should-you-care-dbf9957ab717
 
+
+## Sources Added So Far
+https://sike.org/files/SIDH-spec.pdf
+
+https://ntru.org/f/ntru-20190330.pdf
+
 http://www.dragonwins.com/domains/getteched/bbc/literature/Diffie88.pdf
