@@ -21,6 +21,11 @@ https://sphincs.cr.yp.to/
 
 https://medium.com/cryptoblog/what-is-lattice-based-cryptography-why-should-you-care-dbf9957ab717
 
+https://www.quantiki.org/wiki/shors-factoring-algorithm
+
+https://crypto.stackexchange.com/questions/52777/how-can-shors-algorithm-be-applied-to-ecc
+
+https://eprint.iacr.org/2017/598.pdf
 
 ## Sources Added So Far
 https://sike.org/files/SIDH-spec.pdf
@@ -28,8 +33,4 @@ https://sike.org/files/SIDH-spec.pdf
 https://ntru.org/f/ntru-20190330.pdf
 
 http://www.dragonwins.com/domains/getteched/bbc/literature/Diffie88.pdf
-
-https://www.quantiki.org/wiki/shors-factoring-algorithm
-
-https://crypto.stackexchange.com/questions/52777/how-can-shors-algorithm-be-applied-to-ecc
 
