@@ -28,3 +28,8 @@ https://sike.org/files/SIDH-spec.pdf
 https://ntru.org/f/ntru-20190330.pdf
 
 http://www.dragonwins.com/domains/getteched/bbc/literature/Diffie88.pdf
+
+https://www.quantiki.org/wiki/shors-factoring-algorithm
+
+https://crypto.stackexchange.com/questions/52777/how-can-shors-algorithm-be-applied-to-ecc
+
