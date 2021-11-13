@@ -43,6 +43,22 @@ https://csrc.nist.gov/csrc/media/events/workshop-on-cybersecurity-in-a-post-quan
 
 https://eprint.iacr.org/2013/838.pdf
 
+https://falcon-sign.info/
+
+https://sphincs.org/data/sphincs+-paper.pdf
+
+https://falcon-sign.info/falcon.pdf
+
+https://pq-crystals.org/dilithium/index.shtml
+
+https://pq-crystals.org/dilithium/data/dilithium-specification-round3-20210208.pdf
+
+https://www.pqcrainbow.org/
+
+https://link.springer.com/content/pdf/10.1007%2F11496137_12.pdf
+
+
+
 
 
 
