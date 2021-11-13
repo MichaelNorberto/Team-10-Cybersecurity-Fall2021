@@ -57,7 +57,7 @@ https://www.pqcrainbow.org/
 
 https://link.springer.com/content/pdf/10.1007%2F11496137_12.pdf
 
-
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-208.pdf
 
 
 
