@@ -19,6 +19,9 @@ Sphincs-256: Sphincs is a hash based signature algorithm made for post-quantum-c
 
 https://sphincs.cr.yp.to/
 
+
+
+##Sources to Add
 https://medium.com/cryptoblog/what-is-lattice-based-cryptography-why-should-you-care-dbf9957ab717
 
 https://www.quantiki.org/wiki/shors-factoring-algorithm
@@ -26,6 +29,21 @@ https://www.quantiki.org/wiki/shors-factoring-algorithm
 https://crypto.stackexchange.com/questions/52777/how-can-shors-algorithm-be-applied-to-ecc
 
 https://eprint.iacr.org/2017/598.pdf
+
+https://www.hyperelliptic.org/tanja/vortraege/20170704-energy.pdf
+
+https://ibn.idsi.md/sites/default/files/imag_file/301-313.pdf
+
+https://eprint.iacr.org/2019/1276.pdf
+
+https://arxiv.org/pdf/quant-ph/0012084.pdf
+
+https://csrc.nist.gov/csrc/media/events/workshop-on-cybersecurity-in-a-post-quantum-world/documents/presentations/session7-shumow-dan.pdf
+
+https://eprint.iacr.org/2013/838.pdf
+
+
+
 
 ## Sources Added So Far
 https://sike.org/files/SIDH-spec.pdf
