@@ -1,6 +1,6 @@
 # To Do's Overall:
 
-:heavy_check_mark:
+You can do check marks by doing ":heavy_check_mark:"
 
 - [ ] Find 10-15 More Sources: Tanis
 
