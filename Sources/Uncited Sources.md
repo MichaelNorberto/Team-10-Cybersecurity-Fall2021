@@ -75,11 +75,17 @@ https://crypto.stackexchange.com/questions/52777/how-can-shors-algorithm-be-appl
 
 22. https://frodokem.org/files/FrodoKEM-specification-20210604.pdf (Frodo Learning With Errors Key Encapsulation)
 
-
-## Sources Added So Far
 23. https://sike.org/files/SIDH-spec.pdf
 
 24. https://ntru.org/f/ntru-20190330.pdf
 
 25. http://www.dragonwins.com/domains/getteched/bbc/literature/Diffie88.pdf
+
+## Sources Added So Far
+
+- [x] https://sike.org/files/SIDH-spec.pdf
+
+- [x] https://ntru.org/f/ntru-20190330.pdf
+
+- [x] http://www.dragonwins.com/domains/getteched/bbc/literature/Diffie88.pdf
 
