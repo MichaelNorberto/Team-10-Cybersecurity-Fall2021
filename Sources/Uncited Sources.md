@@ -83,7 +83,7 @@ https://crypto.stackexchange.com/questions/52777/how-can-shors-algorithm-be-appl
 
 ## Sources Added So Far
 
-- [x] https://sike.org/files/SIDH-spec.pdf
+- [] https://sike.org/files/SIDH-spec.pdf
 
 - [x] https://ntru.org/f/ntru-20190330.pdf
 
