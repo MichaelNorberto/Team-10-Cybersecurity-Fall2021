@@ -1,5 +1,7 @@
 # To Do's Overall:
 
+:heavy_check_mark:
+
 - [ ] Find 10-15 More Sources: Tanis
 
 - [ ] Find 10-15 More Sources: Peter
