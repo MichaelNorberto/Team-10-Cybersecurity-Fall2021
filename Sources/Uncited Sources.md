@@ -81,6 +81,8 @@ https://crypto.stackexchange.com/questions/52777/how-can-shors-algorithm-be-appl
 
 25. http://www.dragonwins.com/domains/getteched/bbc/literature/Diffie88.pdf
 
+26. https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=925152
+
 ## Sources Added So Far
 
 :white_check_mark: 23. https://sike.org/files/SIDH-spec.pdf
