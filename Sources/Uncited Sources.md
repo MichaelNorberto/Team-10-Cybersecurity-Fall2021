@@ -97,7 +97,7 @@ https://crypto.stackexchange.com/questions/52777/how-can-shors-algorithm-be-appl
 
 33. https://link.springer.com/content/pdf/10.1007%2F978-3-319-78381-9_6.pdf (On the Ring-LWE and Polynomial-LWE Problems)
 
-
+34. https://eprint.iacr.org/2019/047.pdf (NIST Post-Quantum CryptographyA Hardware Evaluation Study)
 
 
 
