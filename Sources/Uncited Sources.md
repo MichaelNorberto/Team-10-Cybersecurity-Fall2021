@@ -31,35 +31,35 @@ https://crypto.stackexchange.com/questions/52777/how-can-shors-algorithm-be-appl
 
 ### Actual Articles/Good Sources
 
-1. https://eprint.iacr.org/2017/598.pdf
+1. https://eprint.iacr.org/2017/598.pdf (Quantum Resource Estimates for Computing Elliptic Curve Discrete Logarithms)
 
-2. https://www.hyperelliptic.org/tanja/vortraege/20170704-energy.pdf
+2. https://www.hyperelliptic.org/tanja/vortraege/20170704-energy.pdf (University of Illinois Post-Quantum Crypto Presentation)
 
-3. https://ibn.idsi.md/sites/default/files/imag_file/301-313.pdf
+3. https://ibn.idsi.md/sites/default/files/imag_file/301-313.pdf (Post-Quantum Signatures Based on HDLP)
 
-4. https://eprint.iacr.org/2019/1276.pdf
+4. https://eprint.iacr.org/2019/1276.pdf (Post-Quantum Signature Use-Cases)
 
-5. https://arxiv.org/pdf/quant-ph/0012084.pdf
+5. https://arxiv.org/pdf/quant-ph/0012084.pdf (Quantum Factoring and HDLP)
 
-6. https://csrc.nist.gov/csrc/media/events/workshop-on-cybersecurity-in-a-post-quantum-world/documents/presentations/session7-shumow-dan.pdf
+6. https://csrc.nist.gov/csrc/media/events/workshop-on-cybersecurity-in-a-post-quantum-world/documents/presentations/session7-shumow-dan.pdf (NIST Algorithm Workshop)
 
-7. https://eprint.iacr.org/2013/838.pdf
+7. https://eprint.iacr.org/2013/838.pdf (Learning with Errors Improved Compression for Signature Algorithms)
 
-8. https://falcon-sign.info/
+8. https://falcon-sign.info/ (FALCON Informational Website)
 
-9. https://sphincs.org/data/sphincs+-paper.pdf
+9. https://sphincs.org/data/sphincs+-paper.pdf (SPHINCS+ Signature Algorithm Specification Paper)
 
-10. https://falcon-sign.info/falcon.pdf
+10. https://falcon-sign.info/falcon.pdf (FALCON Signature Algorithm Specification paper)
 
-11. https://pq-crystals.org/dilithium/index.shtml
+11. https://pq-crystals.org/dilithium/index.shtml (CRYSTALS-DILITHIUM Information page)
 
-12. https://pq-crystals.org/dilithium/data/dilithium-specification-round3-20210208.pdf
+12. https://pq-crystals.org/dilithium/data/dilithium-specification-round3-20210208.pdf (CRYSTALS-DILITHIUM NIST Specification)
 
-13. https://www.pqcrainbow.org/
+13. https://www.pqcrainbow.org/ (Rainbow Informational Website)
 
-14. https://link.springer.com/content/pdf/10.1007%2F11496137_12.pdf
+14. https://link.springer.com/content/pdf/10.1007%2F11496137_12.pdf (Rainbow a Multivariate Polynomial Signature Scheme)
 
-15. https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-208.pdf
+15. https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-208.pdf (NIST Recommendations for Stateful Hash-Based Signatures)
 
 16. https://link.springer.com/content/pdf/10.1007/978-3-642-13190-5_1.pdf (On Ideal Lattices and Learning with Errors over Rings)
 
@@ -75,19 +75,17 @@ https://crypto.stackexchange.com/questions/52777/how-can-shors-algorithm-be-appl
 
 22. https://frodokem.org/files/FrodoKEM-specification-20210604.pdf (Frodo Learning With Errors Key Encapsulation)
 
-23. https://sike.org/files/SIDH-spec.pdf
+23. https://sike.org/files/SIDH-spec.pdf (SIKE NIST Specifications)
 
-24. https://ntru.org/f/ntru-20190330.pdf
+24. https://ntru.org/f/ntru-20190330.pdf (NTRU NIST Specifications)
 
 25. http://www.dragonwins.com/domains/getteched/bbc/literature/Diffie88.pdf
 
 26. https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=925152 (HFERP Multivariate Encryption)
 
-## Sources Added So Far
+27. https://eprint.iacr.org/2016/1154.pdf (Identification Protocools Using Supersingular Key Isogeny)
 
-:white_check_mark: 23. https://sike.org/files/SIDH-spec.pdf
+28. 
 
-:white_check_mark: 24. https://ntru.org/f/ntru-20190330.pdf
-
-:white_check_mark: 25. http://www.dragonwins.com/domains/getteched/bbc/literature/Diffie88.pdf
+## Sources Added So Far to Literature Survey (Including Proper Citation)
 
