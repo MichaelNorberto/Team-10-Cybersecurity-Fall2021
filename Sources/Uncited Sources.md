@@ -85,7 +85,21 @@ https://crypto.stackexchange.com/questions/52777/how-can-shors-algorithm-be-appl
 
 27. https://eprint.iacr.org/2016/1154.pdf (Identification Protocools Using Supersingular Key Isogeny)
 
-28. 
+28. https://github.com/microsoft/Picnic/blob/master/spec/picnic3-eprint.pdf (Picnic Signature Algorithm Specification Paper)
+
+29. https://eprint.iacr.org/2017/279.pdf (Post-Quantum Zero-Knowledge and Signatures from Symmetric-Key Primitives)
+
+30. https://eprint.iacr.org/2018/475.pdf (Improved Non-Interactive Zero Knowledge with Applications to Post-Quantum Signatures)
+
+31. https://link.springer.com/content/pdf/10.1007/978-3-642-40041-4_2.pdf (Hardness of SIS and LWE with Small Parameters)
+
+32. https://link.springer.com/content/pdf/10.1007%2F978-3-642-38348-9_3.pdf (A Toolkit for RLWE Encryption)
+
+33. https://link.springer.com/content/pdf/10.1007%2F978-3-319-78381-9_6.pdf (On the Ring-LWE and Polynomial-LWE Problems)
+
+
+
+
 
 ## Sources Added So Far to Literature Survey (Including Proper Citation)
 
