@@ -84,6 +84,7 @@ These sources are currently uncited, but are useful and can be used for understa
 
 40. https://e-tarjome.com/storage/btn_uploaded/2020-03-10/1583841544_10496-etarjome%20English.pdf (Merkle Hash Tree based Techniques for Data Integrity of Outsourced Data)
 
+41. https://csrc.nist.gov/csrc/media/events/workshop-on-elliptic-curve-cryptography-standards/documents/papers/session6-adalier-mehmet.pdf
 
 ## Sources Added So Far to Literature Survey (Including Proper Citation)
 
