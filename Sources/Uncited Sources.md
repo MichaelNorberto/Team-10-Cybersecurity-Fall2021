@@ -52,7 +52,7 @@ These sources are currently uncited, but are useful and can be used for understa
 
 24. https://ntru.org/f/ntru-20190330.pdf (NTRU NIST Specifications)
 
-25. http://www.dragonwins.com/domains/getteched/bbc/literature/Diffie88.pdf
+25. http://www.dragonwins.com/domains/getteched/bbc/literature/Diffie88.pdf (First Years of Cryptography by Diffie)
 
 26. https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=925152 (HFERP Multivariate Encryption)
 
