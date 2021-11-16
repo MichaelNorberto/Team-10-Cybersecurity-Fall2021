@@ -80,6 +80,11 @@ These sources are currently uncited, but are useful and can be used for understa
 
 38. https://eprint.iacr.org/2017/1135.pdf (Hybrid Approach of HFeV-)
 
+39. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.650.4180&rep=rep1&type=pdf (Merkle Hash Tree for Smart Grid)
+
+40. https://e-tarjome.com/storage/btn_uploaded/2020-03-10/1583841544_10496-etarjome%20English.pdf (Merkle Hash Tree based Techniques for Data Integrity of Outsourced Data)
+
+
 ## Sources Added So Far to Literature Survey (Including Proper Citation)
 
 
