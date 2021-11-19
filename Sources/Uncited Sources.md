@@ -88,6 +88,10 @@ These sources are currently uncited, but are useful and can be used for understa
 
 42. https://csrc.nist.gov/csrc/media/events/workshop-on-cybersecurity-in-a-post-quantum-world/documents/papers/session5-hulsing-paper.pdf (NIST Hash-Based Signatures)
 
+43. https://www.cs.bu.edu/~reyzin/papers/one-time-sigs.pdf (Reyzin BiBa, and Few-Time Signatures)
+
+44. https://eprint.iacr.org/2017/933.pdf (Improving Stateless-Hash Based Signatures)
+
 ## Sources Added So Far to Literature Survey (Including Proper Citation)
 
 
