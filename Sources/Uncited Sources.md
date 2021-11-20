@@ -4,6 +4,8 @@ These sources are currently uncited, but are useful and can be used for understa
 
 ## Actual Articles/Good Sources
 
+### Michael's Sources:
+
 1. https://eprint.iacr.org/2017/598.pdf (Quantum Resource Estimates for Computing Elliptic Curve Discrete Logarithms)
 
 2. https://www.hyperelliptic.org/tanja/vortraege/20170704-energy.pdf (University of Illinois Post-Quantum Crypto Presentation)
@@ -91,6 +93,42 @@ These sources are currently uncited, but are useful and can be used for understa
 43. https://www.cs.bu.edu/~reyzin/papers/one-time-sigs.pdf (Reyzin BiBa, and Few-Time Signatures)
 
 44. https://eprint.iacr.org/2017/933.pdf (Improving Stateless-Hash Based Signatures)
+
+### Peter's Sources
+
+45. https://pqcrypto.org/www.springer.com/cda/content/document/cda_downloaddocument/9783540887010-c1.pdf
+
+46. http://crypto.cs.mcgill.ca/~crepeau/PDF/memoire-hong.pdf
+
+47. https://www.cs.dartmouth.edu/~sws/theses/marco.pdf
+
+48. https://arxiv.org/pdf/quant-ph/0404061.pdf
+
+49. https://dl.acm.org/doi/abs/10.1145/1527017.1527028
+
+50. https://www.nature.com/articles/nature23461
+
+51. https://dl.acm.org/doi/abs/10.1145/1568318.1568324
+
+52. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1055638
+
+53. https://nvlpubs.nist.gov/nistpubs/ir/2016/nist.ir.8105.pdf
+
+54. https://portal.etsi.org/Portals/0/TBpages/QSC/Docs/Quantum_Safe_Whitepaper_1_0_0.pdf
+
+55. https://eprint.iacr.org/2015/1075.pdf
+
+56. https://arxiv.org/pdf/1109.3235.pdf
+
+57. https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-56Ar2.pdf
+
+58. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.142.4862&rep=rep1&type=pdf
+
+
+
+
+
+
 
 ## Sources Added So Far to Literature Survey (Including Proper Citation)
 
