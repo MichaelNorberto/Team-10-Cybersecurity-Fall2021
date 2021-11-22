@@ -124,9 +124,12 @@ These sources are currently uncited, but are useful and can be used for understa
 
 58. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.142.4862&rep=rep1&type=pdf
 
+### Tanis' Sources
 
-
-
+59. https://dl.acm.org/doi/pdf/10.1145/321662.321666?casa_token=DcKZCY19V44AAAAA:C2R7Kk2_PDRrBJvJHqO1R4YtyktbFz1Jpirh1pJQtP_ir83S2mm6LxMRt0OUiWiogdIrsN0ZXSpP
+60. https://www.ams.org/journals/mcom/1978-32-144/S0025-5718-1978-0568284-3/S0025-5718-1978-0568284-3.pdf
+61. https://www.nature.com/articles/nature23461#Sec9
+62. https://eprint.iacr.org/2019/047.pdf
 
 
 
