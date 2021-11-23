@@ -94,6 +94,8 @@ These sources are currently uncited, but are useful and can be used for understa
 
 44. https://eprint.iacr.org/2017/933.pdf (Improving Stateless-Hash Based Signatures)
 
+62. https://link.springer.com/content/pdf/10.1007/3-540-46766-1_35.pdf (NIZK)
+
 ### Peter's Sources
 
 45. https://pqcrypto.org/www.springer.com/cda/content/document/cda_downloaddocument/9783540887010-c1.pdf
@@ -129,7 +131,6 @@ These sources are currently uncited, but are useful and can be used for understa
 59. https://dl.acm.org/doi/pdf/10.1145/321662.321666?casa_token=DcKZCY19V44AAAAA:C2R7Kk2_PDRrBJvJHqO1R4YtyktbFz1Jpirh1pJQtP_ir83S2mm6LxMRt0OUiWiogdIrsN0ZXSpP
 
 60. https://www.ams.org/journals/mcom/1978-32-144/S0025-5718-1978-0568284-3/S0025-5718-1978-0568284-3.pdf
-
 
 61. https://www.nature.com/articles/nature23461#Sec9
 
