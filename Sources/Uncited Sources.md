@@ -95,53 +95,53 @@ These sources are currently uncited, but are useful and can be used for understa
 44. https://eprint.iacr.org/2017/933.pdf (Improving Stateless-Hash Based Signatures)
 
 
-62. https://link.springer.com/content/pdf/10.1007/3-540-46766-1_35.pdf (NIZK)
+45. https://link.springer.com/content/pdf/10.1007/3-540-46766-1_35.pdf (NIZK)
 
-63. https://csrc.nist.gov/CSRC/media/Events/Second-PQC-Standardization-Conference/documents/accepted-papers/soni-hardware-evaluation.pdf (NIST Hardware Evaluation of Specifically Signature Algorithms)
+46. https://csrc.nist.gov/CSRC/media/Events/Second-PQC-Standardization-Conference/documents/accepted-papers/soni-hardware-evaluation.pdf (NIST Hardware Evaluation of Specifically Signature Algorithms)
 
-64. https://cims.nyu.edu/~regev/papers/pqc.pdf (Micciano, Lattice-Based Cryptography)
+47. https://cims.nyu.edu/~regev/papers/pqc.pdf (Micciano, Lattice-Based Cryptography)
 
-65. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.928&rep=rep1&type=pdf (Lattice-Reduction)
+48. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.928&rep=rep1&type=pdf (Lattice-Reduction)
 
-66. https://link.springer.com/content/pdf/10.1007/978-3-540-78967-3_3.pdf (Predicting Lattice-Reduction)
+49. https://link.springer.com/content/pdf/10.1007/978-3-540-78967-3_3.pdf (Predicting Lattice-Reduction)
 
 ### Peter's Sources
 
-45. https://pqcrypto.org/www.springer.com/cda/content/document/cda_downloaddocument/9783540887010-c1.pdf
+1. https://pqcrypto.org/www.springer.com/cda/content/document/cda_downloaddocument/9783540887010-c1.pdf
 
-46. http://crypto.cs.mcgill.ca/~crepeau/PDF/memoire-hong.pdf
+2. http://crypto.cs.mcgill.ca/~crepeau/PDF/memoire-hong.pdf
 
-47. https://www.cs.dartmouth.edu/~sws/theses/marco.pdf
+3. https://www.cs.dartmouth.edu/~sws/theses/marco.pdf
 
-48. https://arxiv.org/pdf/quant-ph/0404061.pdf
+4. https://arxiv.org/pdf/quant-ph/0404061.pdf
 
-49. https://dl.acm.org/doi/abs/10.1145/1527017.1527028
+5. https://dl.acm.org/doi/abs/10.1145/1527017.1527028
 
-50. https://www.nature.com/articles/nature23461
+6. https://www.nature.com/articles/nature23461
 
-51. https://dl.acm.org/doi/abs/10.1145/1568318.1568324
+7. https://dl.acm.org/doi/abs/10.1145/1568318.1568324
 
-52. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1055638
+8. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1055638
 
-53. https://nvlpubs.nist.gov/nistpubs/ir/2016/nist.ir.8105.pdf
+9. https://nvlpubs.nist.gov/nistpubs/ir/2016/nist.ir.8105.pdf
 
-54. https://portal.etsi.org/Portals/0/TBpages/QSC/Docs/Quantum_Safe_Whitepaper_1_0_0.pdf
+10. https://portal.etsi.org/Portals/0/TBpages/QSC/Docs/Quantum_Safe_Whitepaper_1_0_0.pdf
 
-55. https://eprint.iacr.org/2015/1075.pdf
+11. https://eprint.iacr.org/2015/1075.pdf
 
-56. https://arxiv.org/pdf/1109.3235.pdf
+12. https://arxiv.org/pdf/1109.3235.pdf
 
-57. https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-56Ar2.pdf
+13. https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-56Ar2.pdf
 
-58. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.142.4862&rep=rep1&type=pdf
+14. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.142.4862&rep=rep1&type=pdf
 
 ### Tanis' Sources
 
-59. https://dl.acm.org/doi/pdf/10.1145/321662.321666?casa_token=DcKZCY19V44AAAAA:C2R7Kk2_PDRrBJvJHqO1R4YtyktbFz1Jpirh1pJQtP_ir83S2mm6LxMRt0OUiWiogdIrsN0ZXSpP
+1. https://dl.acm.org/doi/pdf/10.1145/321662.321666?casa_token=DcKZCY19V44AAAAA:C2R7Kk2_PDRrBJvJHqO1R4YtyktbFz1Jpirh1pJQtP_ir83S2mm6LxMRt0OUiWiogdIrsN0ZXSpP
 
-60. https://www.ams.org/journals/mcom/1978-32-144/S0025-5718-1978-0568284-3/S0025-5718-1978-0568284-3.pdf
+2. https://www.ams.org/journals/mcom/1978-32-144/S0025-5718-1978-0568284-3/S0025-5718-1978-0568284-3.pdf
 
-61. https://www.nature.com/articles/nature23461#Sec9
+3. https://www.nature.com/articles/nature23461#Sec9
 
 
 
