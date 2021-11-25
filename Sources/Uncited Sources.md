@@ -94,7 +94,16 @@ These sources are currently uncited, but are useful and can be used for understa
 
 44. https://eprint.iacr.org/2017/933.pdf (Improving Stateless-Hash Based Signatures)
 
+
 62. https://link.springer.com/content/pdf/10.1007/3-540-46766-1_35.pdf (NIZK)
+
+63. https://csrc.nist.gov/CSRC/media/Events/Second-PQC-Standardization-Conference/documents/accepted-papers/soni-hardware-evaluation.pdf (NIST Hardware Evaluation of Specifically Signature Algorithms)
+
+64. https://cims.nyu.edu/~regev/papers/pqc.pdf (Micciano, Lattice-Based Cryptography)
+
+65. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.928&rep=rep1&type=pdf (Lattice-Reduction)
+
+66. https://link.springer.com/content/pdf/10.1007/978-3-540-78967-3_3.pdf (Predicting Lattice-Reduction)
 
 ### Peter's Sources
 
