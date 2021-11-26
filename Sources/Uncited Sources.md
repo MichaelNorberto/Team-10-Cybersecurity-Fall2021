@@ -105,6 +105,8 @@ These sources are currently uncited, but are useful and can be used for understa
 
 49. https://link.springer.com/content/pdf/10.1007/978-3-540-78967-3_3.pdf (Predicting Lattice-Reduction)
 
+50. https://arxiv.org/pdf/quant-ph/9605043.pdf (Grover's Paper)
+
 ### Peter's Sources
 
 1. https://pqcrypto.org/www.springer.com/cda/content/document/cda_downloaddocument/9783540887010-c1.pdf
