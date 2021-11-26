@@ -94,7 +94,6 @@ These sources are currently uncited, but are useful and can be used for understa
 
 44. https://eprint.iacr.org/2017/933.pdf (Improving Stateless-Hash Based Signatures)
 
-
 45. https://link.springer.com/content/pdf/10.1007/3-540-46766-1_35.pdf (NIZK)
 
 46. https://csrc.nist.gov/CSRC/media/Events/Second-PQC-Standardization-Conference/documents/accepted-papers/soni-hardware-evaluation.pdf (NIST Hardware Evaluation of Specifically Signature Algorithms)
@@ -107,6 +106,7 @@ These sources are currently uncited, but are useful and can be used for understa
 
 50. https://arxiv.org/pdf/quant-ph/9605043.pdf (Grover's Paper)
 
+51. https://eprint.iacr.org/2019/1208.pdf (eAES Analysis)
 ### Peter's Sources
 
 1. https://pqcrypto.org/www.springer.com/cda/content/document/cda_downloaddocument/9783540887010-c1.pdf
