@@ -112,7 +112,7 @@ These sources are currently uncited, but are useful and can be used for understa
 
 53. https://mqdss.org/ (MQDSS)
 
-54. https://par.nsf.gov/servlets/purl/10175000 (Software/Hardware Co-Design Evaluation)
+54. https://par.nsf.gov/servlets/purl/10175000 (Software/Hardware Co-Design Evaluation) ✔️
 ### Peter's Sources
 
 1. https://pqcrypto.org/www.springer.com/cda/content/document/cda_downloaddocument/9783540887010-c1.pdf
