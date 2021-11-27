@@ -107,6 +107,12 @@ These sources are currently uncited, but are useful and can be used for understa
 50. https://arxiv.org/pdf/quant-ph/9605043.pdf (Grover's Paper)
 
 51. https://eprint.iacr.org/2019/1208.pdf (eAES Analysis)
+
+52. https://www.di.ens.fr/users/phan/secuproofs/yao82.pdf (Yao Trapdoors)
+
+53. https://mqdss.org/ (MQDSS)
+
+54. https://par.nsf.gov/servlets/purl/10175000 (Software/Hardware Co-Design Evaluation)
 ### Peter's Sources
 
 1. https://pqcrypto.org/www.springer.com/cda/content/document/cda_downloaddocument/9783540887010-c1.pdf
