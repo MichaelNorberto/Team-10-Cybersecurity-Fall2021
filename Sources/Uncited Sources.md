@@ -22,11 +22,11 @@ These sources are currently uncited, but are useful and can be used for understa
 
 8. https://falcon-sign.info/ (FALCON Informational Website)
 
-9. https://sphincs.org/data/sphincs+-paper.pdf (SPHINCS+ Signature Algorithm Specification Paper)
+9. https://sphincs.org/data/sphincs+-paper.pdf (SPHINCS+ Signature Algorithm Specification Paper) ✔️
 
-10. https://falcon-sign.info/falcon.pdf (FALCON Signature Algorithm Specification paper)
+10. https://falcon-sign.info/falcon.pdf (FALCON Signature Algorithm Specification paper) ✔️
 
-11. https://pq-crystals.org/dilithium/index.shtml (CRYSTALS-DILITHIUM Information page)
+11. https://pq-crystals.org/dilithium/index.shtml (CRYSTALS-DILITHIUM Information page) ✔️
 
 12. https://pq-crystals.org/dilithium/data/dilithium-specification-round3-20210208.pdf (CRYSTALS-DILITHIUM NIST Specification)
 
@@ -49,20 +49,20 @@ These sources are currently uncited, but are useful and can be used for understa
 21. http://pqc-hqc.org/doc/hqc-specification_2021-06-06.pdf (HQC Specification Paper)
 
 22. https://frodokem.org/files/FrodoKEM-specification-20210604.pdf (Frodo Learning With Errors Key Encapsulation)
+ 
+23. https://sike.org/files/SIDH-spec.pdf (SIKE NIST Specifications) ✔️
 
-23. https://sike.org/files/SIDH-spec.pdf (SIKE NIST Specifications)
+24. https://ntru.org/f/ntru-20190330.pdf (NTRU NIST Specifications) ✔️
 
-24. https://ntru.org/f/ntru-20190330.pdf (NTRU NIST Specifications)
-
-25. http://www.dragonwins.com/domains/getteched/bbc/literature/Diffie88.pdf (First Years of Cryptography by Diffie)
+25. http://www.dragonwins.com/domains/getteched/bbc/literature/Diffie88.pdf (First Years of Cryptography by Diffie) ✔️
 
 26. https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=925152 (HFERP Multivariate Encryption)
 
 27. https://eprint.iacr.org/2016/1154.pdf (Identification Protocools Using Supersingular Key Isogeny)
 
-28. https://github.com/microsoft/Picnic/blob/master/spec/picnic3-eprint.pdf (Picnic Signature Algorithm Specification Paper)
+28. https://github.com/microsoft/Picnic/blob/master/spec/picnic3-eprint.pdf (Picnic Signature Algorithm Specification Paper) ✔️
 
-29. https://eprint.iacr.org/2017/279.pdf (Post-Quantum Zero-Knowledge and Signatures from Symmetric-Key Primitives)
+29. https://eprint.iacr.org/2017/279.pdf (Post-Quantum Zero-Knowledge and Signatures from Symmetric-Key Primitives) ✔️
 
 30. https://eprint.iacr.org/2018/475.pdf (Improved Non-Interactive Zero Knowledge with Applications to Post-Quantum Signatures)
 
@@ -72,7 +72,7 @@ These sources are currently uncited, but are useful and can be used for understa
 
 33. https://link.springer.com/content/pdf/10.1007%2F978-3-319-78381-9_6.pdf (On the Ring-LWE and Polynomial-LWE Problems)
 
-34. https://eprint.iacr.org/2019/047.pdf (NIST Post-Quantum CryptographyA Hardware Evaluation Study)
+34. https://eprint.iacr.org/2019/047.pdf (NIST Post-Quantum CryptographyA Hardware Evaluation Study) ✔️
 
 35. https://arxiv.org/pdf/1512.04965.pdf%C3%AF%C2%BC%C5%92%C3%A5%E2%80%A6%C2%B6%C3%A4%C2%B8%C2%AD%C3%A6%C5%93%E2%80%B0%C3%A4%C2%B8%E2%82%AC%C3%A4%C2%B8%C2%AA%C3%A8%C2%AE%C2%BA%C3%A6%20%C2%AE%C3%A6%C5%92%E2%80%A1%C3%A5%E2%80%A1%C2%BA%C3%AF%C2%BC%C5%92%C3%A4%C2%BD%C2%BF%C3%A7%E2%80%9D%C2%A8Quantum%C3%A8%C2%AE%C2%A1%C3%A7%C2%AE%E2%80%94%C3%A6%C5%93%C2%BA%C3%A6%E2%80%B0%E2%80%9C%C3%A7%C2%A0%C2%B4AES-128%C3%A6%C2%AF%E2%80%9D%C3%A4%C2%BD%C2%BF%C3%A7%E2%80%9D%C2%A8%C3%A5%C2%B8%C2%B8%C3%A8%C2%A7%E2%80%9E%C3%A8%C2%AE%C2%A1%C3%A7%C2%AE%E2%80%94%C3%A6%C5%93%C2%BA%C3%A6%E2%80%B0%E2%80%9C%C3%A7%C2%A0%C2%B464%C3%A4%C2%BD%20%C3%A5%C2%AF%E2%80%A0%C3%A7%C2%A0%20%C3%A5%E2%80%BA%C2%B0%C3%A9%C5%A1%C2%BE%C3%A5%C2%BE%E2%80%94%C3%A5%C2%A4%C5%A1;%C3%A4%C2%B8%C2%A4%C3%A8%E2%82%AC%E2%80%A6%C3%A5%C5%93%C2%A8%C3%A6%C5%A0%E2%82%AC%C3%A6%C5%93%C2%AF%C3%A4%C2%B8%C5%A0%C3%A9%C6%92%C2%BD%C3%A6%CB%9C%C2%AF$ (Applying Grover's Algorithm)
 
@@ -90,25 +90,25 @@ These sources are currently uncited, but are useful and can be used for understa
 
 42. https://csrc.nist.gov/csrc/media/events/workshop-on-cybersecurity-in-a-post-quantum-world/documents/papers/session5-hulsing-paper.pdf (NIST Hash-Based Signatures)
 
-43. https://www.cs.bu.edu/~reyzin/papers/one-time-sigs.pdf (Reyzin BiBa, and Few-Time Signatures)
+43. https://www.cs.bu.edu/~reyzin/papers/one-time-sigs.pdf (Reyzin BiBa, and Few-Time Signatures) ✔️
 
 44. https://eprint.iacr.org/2017/933.pdf (Improving Stateless-Hash Based Signatures)
 
-45. https://link.springer.com/content/pdf/10.1007/3-540-46766-1_35.pdf (NIZK)
+45. https://link.springer.com/content/pdf/10.1007/3-540-46766-1_35.pdf (NIZK) ✔️
 
-46. https://csrc.nist.gov/CSRC/media/Events/Second-PQC-Standardization-Conference/documents/accepted-papers/soni-hardware-evaluation.pdf (NIST Hardware Evaluation of Specifically Signature Algorithms)
+46. https://csrc.nist.gov/CSRC/media/Events/Second-PQC-Standardization-Conference/documents/accepted-papers/soni-hardware-evaluation.pdf (NIST Hardware Evaluation of Specifically Signature Algorithms) 
 
-47. https://cims.nyu.edu/~regev/papers/pqc.pdf (Micciano, Lattice-Based Cryptography)
+47. https://cims.nyu.edu/~regev/papers/pqc.pdf (Micciano, Lattice-Based Cryptography) ✔️
 
 48. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.928&rep=rep1&type=pdf (Lattice-Reduction)
 
 49. https://link.springer.com/content/pdf/10.1007/978-3-540-78967-3_3.pdf (Predicting Lattice-Reduction)
 
-50. https://arxiv.org/pdf/quant-ph/9605043.pdf (Grover's Paper)
+50. https://arxiv.org/pdf/quant-ph/9605043.pdf (Grover's Paper) ✔️
 
-51. https://eprint.iacr.org/2019/1208.pdf (eAES Analysis)
+51. https://eprint.iacr.org/2019/1208.pdf (eAES Analysis) ✔️
 
-52. https://www.di.ens.fr/users/phan/secuproofs/yao82.pdf (Yao Trapdoors)
+52. https://www.di.ens.fr/users/phan/secuproofs/yao82.pdf (Yao Trapdoors) ✔️
 
 53. https://mqdss.org/ (MQDSS)
 
