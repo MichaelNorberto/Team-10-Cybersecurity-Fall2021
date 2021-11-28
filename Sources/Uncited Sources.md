@@ -16,7 +16,7 @@ These sources are currently uncited, but are useful and can be used for understa
 
 5. https://arxiv.org/pdf/quant-ph/0012084.pdf (Quantum Factoring and HDLP)
 
-6. https://csrc.nist.gov/csrc/media/events/workshop-on-cybersecurity-in-a-post-quantum-world/documents/presentations/session7-shumow-dan.pdf (NIST Algorithm Workshop)
+6. https://csrc.nist.gov/csrc/media/events/workshop-on-cybersecurity-in-a-post-quantum-world/documents/presentations/session7-shumow-dan.pdf (NIST Algorithm Workshop)✔️
 
 7. https://eprint.iacr.org/2013/838.pdf (Learning with Errors Improved Compression for Signature Algorithms)
 
@@ -28,7 +28,7 @@ These sources are currently uncited, but are useful and can be used for understa
 
 11. https://pq-crystals.org/dilithium/index.shtml (CRYSTALS-DILITHIUM Information page) ✔️
 
-12. https://pq-crystals.org/dilithium/data/dilithium-specification-round3-20210208.pdf (CRYSTALS-DILITHIUM NIST Specification)
+12. https://pq-crystals.org/dilithium/data/dilithium-specification-round3-20210208.pdf (CRYSTALS-DILITHIUM NIST Specification)✔️
 
 13. https://www.pqcrainbow.org/ (Rainbow Informational Website)
 
@@ -38,13 +38,13 @@ These sources are currently uncited, but are useful and can be used for understa
 
 16. https://link.springer.com/content/pdf/10.1007/978-3-642-13190-5_1.pdf (On Ideal Lattices and Learning with Errors over Rings)
 
-17. https://eprint.iacr.org/2021/543.pdf (The case for SIKE)
+17. https://eprint.iacr.org/2021/543.pdf (The case for SIKE) ✔️
  
-18. https://eprint.iacr.org/2019/1321.pdf (Supersingular Isogeny Key for Beginners)
+18. https://eprint.iacr.org/2019/1321.pdf (Supersingular Isogeny Key for Beginners) ✔️
 
 19. https://eprint.iacr.org/2018/230.pdf (SABER Module Learning With Errors Key Exchange)
 
-20. https://eprint.iacr.org/2012/090.pdf (Worst Case Module Lattice Reductions)
+20. https://eprint.iacr.org/2012/090.pdf (Worst Case Module Lattice Reductions) ✔️
 
 21. http://pqc-hqc.org/doc/hqc-specification_2021-06-06.pdf (HQC Specification Paper)
 
@@ -102,7 +102,7 @@ These sources are currently uncited, but are useful and can be used for understa
 
 48. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.928&rep=rep1&type=pdf (Lattice-Reduction)
 
-49. https://link.springer.com/content/pdf/10.1007/978-3-540-78967-3_3.pdf (Predicting Lattice-Reduction)
+49. https://link.springer.com/content/pdf/10.1007/978-3-540-78967-3_3.pdf (Predicting Lattice-Reduction) ✔️
 
 50. https://arxiv.org/pdf/quant-ph/9605043.pdf (Grover's Paper) ✔️
 
