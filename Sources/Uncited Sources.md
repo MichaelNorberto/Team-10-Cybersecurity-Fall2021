@@ -66,7 +66,7 @@ These sources are currently uncited, but are useful and can be used for understa
 
 30. https://eprint.iacr.org/2018/475.pdf (Improved Non-Interactive Zero Knowledge with Applications to Post-Quantum Signatures)
 
-31. https://link.springer.com/content/pdf/10.1007/978-3-642-40041-4_2.pdf (Hardness of SIS and LWE with Small Parameters)
+31. https://link.springer.com/content/pdf/10.1007/978-3-642-40041-4_2.pdf (Hardness of SIS and LWE with Small Parameters) ✔️
 
 32. https://link.springer.com/content/pdf/10.1007%2F978-3-642-38348-9_3.pdf (A Toolkit for RLWE Encryption)
 
