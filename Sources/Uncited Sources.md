@@ -10,11 +10,11 @@ These sources are currently uncited, but are useful and can be used for understa
 
 2. https://www.hyperelliptic.org/tanja/vortraege/20170704-energy.pdf (University of Illinois Post-Quantum Crypto Presentation)
 
-3. https://ibn.idsi.md/sites/default/files/imag_file/301-313.pdf (Post-Quantum Signatures Based on HDLP)
+3. https://ibn.idsi.md/sites/default/files/imag_file/301-313.pdf (Post-Quantum Signatures Based on HDLP) ✔️
 
-4. https://eprint.iacr.org/2019/1276.pdf (Post-Quantum Signature Use-Cases)
+4. https://eprint.iacr.org/2019/1276.pdf (Post-Quantum Signature Use-Cases) ✔️
 
-5. https://arxiv.org/pdf/quant-ph/0012084.pdf (Quantum Factoring and HDLP)
+5. https://arxiv.org/pdf/quant-ph/0012084.pdf (Quantum Factoring and HDLP) ✔️
 
 6. https://csrc.nist.gov/csrc/media/events/workshop-on-cybersecurity-in-a-post-quantum-world/documents/presentations/session7-shumow-dan.pdf (NIST Algorithm Workshop)✔️
 
