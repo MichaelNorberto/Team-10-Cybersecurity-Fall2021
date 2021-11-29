@@ -36,13 +36,13 @@ These sources are currently uncited, but are useful and can be used for understa
 
 15. https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-208.pdf (NIST Recommendations for Stateful Hash-Based Signatures)
 
-16. https://link.springer.com/content/pdf/10.1007/978-3-642-13190-5_1.pdf (On Ideal Lattices and Learning with Errors over Rings)
+16. https://link.springer.com/content/pdf/10.1007/978-3-642-13190-5_1.pdf (On Ideal Lattices and Learning with Errors over Rings) ✔️
 
 17. https://eprint.iacr.org/2021/543.pdf (The case for SIKE) ✔️
  
 18. https://eprint.iacr.org/2019/1321.pdf (Supersingular Isogeny Key for Beginners) ✔️
 
-19. https://eprint.iacr.org/2018/230.pdf (SABER Module Learning With Errors Key Exchange)
+19. https://eprint.iacr.org/2018/230.pdf (SABER Module Learning With Errors Key Exchange) ✔️
 
 20. https://eprint.iacr.org/2012/090.pdf (Worst Case Module Lattice Reductions) ✔️
 
